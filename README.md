@@ -60,3 +60,15 @@ pnpm build
 - **TypeScript**: Type safety
 - **GitHub API**: Live issue data
 - **CSS**: Modern styling with glassmorphism effects
+
+## Begginer Installation Exxample
+1. Clone the repository:
+   git clone
+https://github.com/23101133370096/first-contributions
+
+2. Navigate into the folder:
+   cd first-contributionsy
+
+3. Open the project in your code editor.
+
+This step-by-step help the beginners get started easily.
