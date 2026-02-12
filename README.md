@@ -66,8 +66,8 @@ pnpm build
    git clone
 https://github.com/23101133370096/first-contributions
 
-2. Navigate into the folder:
-   cd first-contributionsy
+2. Navigate into the project folder:
+   cd first-contributions
 
 3. Open the project in your code editor.
 
